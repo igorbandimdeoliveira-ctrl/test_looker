@@ -1,17 +1,15 @@
 {
   "name": "Meu Teste",
-  "description": "Visualização de teste no Looker Studio",
   "organization": "Igor Testes",
-  "organizationUrl": "https://example.com",
-  "supportUrl": "https://example.com/suporte",
-  "privacyPolicyUrl": "https://example.com/politica",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
-  "resources": {
-    "js": [
-      "script.js"
-    ],
-    "css": [
-      "style.css"
-    ]
-  }
+  "description": "Visualização de teste no Looker Studio",
+  "devMode": true,
+  "components": [
+    {
+      "id": "meu_teste",
+      "name": "Meu Teste",
+      "description": "Exemplo simples",
+      "script": "https://raw.githubusercontent.com/igorbandimdeoliveira-ctrl/test_looker/main/script.js",
+      "style": "https://raw.githubusercontent.com/igorbandimdeoliveira-ctrl/test_looker/main/style.css"
+    }
+  ]
 }
