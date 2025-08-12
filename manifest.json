@@ -1,0 +1,17 @@
+{
+  "name": "Meu Teste",
+  "description": "Visualização de teste no Looker Studio",
+  "organization": "Igor Testes",
+  "organizationUrl": "https://example.com",
+  "supportUrl": "https://example.com/suporte",
+  "privacyPolicyUrl": "https://example.com/politica",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+  "resources": {
+    "js": [
+      "script.js"
+    ],
+    "css": [
+      "style.css"
+    ]
+  }
+}
